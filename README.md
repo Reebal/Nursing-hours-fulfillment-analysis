@@ -11,10 +11,13 @@ Insights and recommendations are presented in the following key areas:
 3. High-demand locations with strong and weak performance
 4. Role-specific staffing distribution
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
-Targeted SQL queries regarding various business questions can be found here [link].
-A Tableau dashboard reporting overall staffing efficiency and trends can be found here.
-Another Tableau dashboard reporting the other insights (2, 3, 4) can be found here. 
+The SQL queries used to inspect and clean the data for this analysis can be found [here](initial_checks.sql)
+
+Targeted SQL queries regarding various business questions can be found [here](nursing_staffing.sql)
+
+A Tableau dashboard reporting overall staffing efficiency and trends can be found [here](https://public.tableau.com/views/SalesrecommendationstoXYZ-Dashboard1/Dashboard2?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+Another Tableau dashboard reporting the other insights (2, 3, 4) can be found [here](https://public.tableau.com/views/SalesrecommendationstoXYZ-Dashboard2/Dashboard3?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 # Data structure & Initial checks
 
