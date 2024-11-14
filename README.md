@@ -54,14 +54,12 @@ In Q1 2024, the total contract fulfillment rate across all regions was only 8%, 
 -	Counties with high requirement hours: Counties like Los Angeles, Queens, Kings, Bronx have more than 3 million hours of requirement. 
 -	Nursing homes with high contract fulfilment: Certain nursing homes in Pennsylvania, New York, Michigan, Florida recorded more than 50,000 contract hours in Q1 2024. 
 
-![Category3](Images/category3.png)
-
 ### Role-specific staffing distribution:
 
 -	High demand, low fulfilment roles: Roles like Certified nursing assistant, Licensed practical nurse, and Registered nurse have these respective average requirement hours and average contract hours ratio (177.7 : 14, 66.8 : 7, 36.2 : 3.4).
 -	Underperforming roles: key roles like licensed practical nurses (LPNs) in administrative positions, RN director of nursing and nurse aides in training are only at 0.1 hours each.
 
-![Category4](Images/category4.png)
+![Category3and4](Images/category34.png)
 
 # Recommendations
 
